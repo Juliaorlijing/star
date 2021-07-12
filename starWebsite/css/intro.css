@@ -1,0 +1,46 @@
+body {
+	padding: 0px;
+	margin: 0px;
+}
+.con{
+	position: fixed;
+	top: 20px;
+}
+.container{
+	color: #192F94;
+	background-color: lightblue;
+}
+.container #head_bgc{
+	text-align: center;
+	background-color:#192F94;	
+}
+.content{
+	width: 1000px;
+	margin: auto;
+	text-indent: 2em;
+}
+.content img{
+	margin-left: 15px;
+	float: right;
+	width: 500px;
+}
+ul{
+	list-style: none;
+	}
+.list ul{
+	font-size: 20px;
+	position: fixed;
+	top:170px;
+	
+}
+.list ul li{
+	margin: 15px 0px;
+}
+.list ul li span, a{
+	color: black;
+	text-decoration: none;
+}
+.list ul li a:hover{
+	color: #CF4535;
+}
+
