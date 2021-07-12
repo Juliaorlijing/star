@@ -1,0 +1,58 @@
+*{
+	padding: 0px;
+	margin: 0px;
+}
+.box{
+	background: url(../imges/musicbg1.jpg)no-repeat;
+	height: 1000px;
+	padding-left: 220px;
+	color: #4a4e69;
+}
+.album{
+	padding: 10px;	
+}
+span{
+	font-size: 23px;
+}
+.album ul{
+	list-style: none;
+	margin-top: 10px;
+}
+.album ul li{
+	float: left;
+	margin-left: 40px;
+}
+.album ul li img{
+	width: 150px;
+}
+.album ul li img:hover{
+	transform: translateY(10px);
+	transition: all ease .3s ;
+}
+.song{
+	clear: both;
+}
+.song .slist1{
+	float: left;
+}
+.song  p {
+	margin-top: 10px;
+	}
+.song p a{
+	text-decoration: none;
+	padding-left: 43px;
+	color: #b2967d;
+}
+.song p a:hover{
+	color: #D01329;
+}
+.song .slist2{
+	float: left;
+	margin-top: 30px;
+	margin-left:90px;
+}
+.song .slist3{
+	float: left;
+	margin-top: 30px;
+	margin-left:90px;
+}

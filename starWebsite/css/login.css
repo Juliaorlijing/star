@@ -1,0 +1,51 @@
+*{
+	padding: 0px;
+	margin: 0px;
+}
+body{
+	color: white;
+	width: 1420px;
+	height: 770px;
+	background: url(../imges/loginbg.jpg);
+}
+.container{
+	height: 312px;
+	width: 514px;
+	position: fixed;
+	top: 10%;
+	left: 30%;;
+	text-align: center;
+	background-color: #00000090;
+	border-radius: 10px;
+}
+#title{
+	font-size: 20px;
+	margin: 16px auto;
+}
+#entry{
+	color: white;
+	font-size: 16px;
+	margin-bottom: 20px;
+}
+#entry span{
+	color: #EECDA3;
+}
+.inputOt input{
+	border-radius: 18px;
+	outline: none;
+	margin: 10px 0px;
+	width: 268px;
+	height: 38px;
+	padding-left: 10px;
+}
+.inputOt #login_btn{
+	width: 280px;
+	height: 43px;
+	padding: 1px 6px;
+	font-size: 18px;
+	color: white;
+	background-color: #21D4FD;
+	background-image: linear-gradient(19deg, #21D4FD 0%, #B721FF 100%);
+
+	}
+}
